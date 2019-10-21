@@ -120,5 +120,5 @@ uritemplate==3.0.0
 urllib3==1.22
 virtualenv==15.1.0
 wcwidth==0.1.7
-Werkzeug==0.12
+Werkzeug==0.15.3
 widgetsnbextension==3.0.7
