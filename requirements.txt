@@ -18,7 +18,7 @@ cycler==0.10.0
 Cython==0.26.1
 decorator==4.1.2
 dicom==0.9.9.post1
-Django==1.11.1
+Django==1.11.28
 docutils==0.14
 entrypoints==0.2.3
 enum34==1.1.6
