@@ -84,7 +84,7 @@ pyasn1==0.4.2
 pyasn1-modules==0.2.1
 PyAudio==0.2.11
 pycloudfn==0.1.209
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.3.1
 pyparsing==2.2.0
 pyserial==3.4
